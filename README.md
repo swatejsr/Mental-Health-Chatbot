@@ -2,6 +2,10 @@
 🤖 Provides emotional support with **NLP** ✨ **Sentiment Analysis** ❤️ **Crisis Detection** 🚨  
 
 ---
+<div align="center">
+  <br />
+    <img src="public/hero.png" alt="Project Banner">
+  <br />
 
 ## 📌 Overview  
 This project is a **Python-based Mental Health Chatbot** that interacts with users in natural language.  

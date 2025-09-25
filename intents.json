@@ -1,0 +1,241 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "How are you?",
+        "Hey",
+        "Good morning",
+        "Good evening"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! I'm here to support you.",
+        "Hey! How are you feeling right now?"
+      ]
+    },
+    {
+      "tag": "anxiety",
+      "patterns": [
+        "I feel anxious",
+        "I'm stressed",
+        "I have panic attacks",
+        "I feel anxious lately",
+        "I can't stop worrying",
+        "I'm having panic attacks",
+        "I am feeling anxious about the future",
+        "My mind keeps racing",
+        "I am afraid of being judged",
+        "I feel paralyzed by fear",
+        "I'm overthinking everything",
+        "I can't calm down",
+        "Feeling nervous for no reason"
+      ],
+      "responses": [
+        "I'm sorry you're feeling anxious. Try focusing on your breath — inhale slowly, hold, and exhale.",
+        "You're not alone in feeling this way. Do you want me to share a grounding exercise with you?",
+        "It’s normal to feel anxious sometimes. Can you tell me what triggered it today?",
+        "Take a few deep breaths and try to ground yourself. If you'd like, tell me what’s been making you anxious.",
+        "Noticing worries is the first step. Try labeling each worry and ask: is this solvable right now?",
+        "If you can, sit down, slow your breath, and count breaths. If it's frequent, please seek medical help.",
+        "Future worries can feel big. Focus on what you can control today — what's one small thing?"
+      ]
+    },
+    {
+      "tag": "depression",
+      "patterns": [
+        "I'm depressed",
+        "I feel sad",
+        "I can't be happy",
+        "I have low energy all the time",
+        "I'm struggling to cope with life",
+        "I feel hopeless",
+        "I have mood swings",
+        "I want to cry for no reason",
+        "I feel emotionally drained",
+        "I feel overwhelmed by negative thoughts",
+        "I feel detached from reality",
+        "I feel down",
+        "I feel empty inside",
+        "Feeling low today"
+      ],
+      "responses": [
+        "I'm here for you. Can you share more about what you're feeling?",
+        "Remember, you're not alone. Things can get better.",
+        "It’s okay to cry and express your emotions. I’m here to listen.",
+        "I'm really sorry you're feeling this way. Would you like to talk about what's been happening?"
+      ]
+    },
+    {
+      "tag": "stress",
+      "patterns": [
+        "I'm stressed about work",
+        "I feel stressed when meeting new people",
+        "I'm overwhelmed by responsibilities",
+        "I have trouble concentrating",
+        "I can't focus at all",
+        "I feel irritable and frustrated",
+        "I have trouble making decisions",
+        "I feel stressed about my finances",
+        "Work pressure is too much",
+        "Too many deadlines"
+      ],
+      "responses": [
+        "Try to focus on one task at a time to manage stress better.",
+        "Taking deep breaths and short breaks can help reduce stress.",
+        "You’re doing your best. Don’t forget to take care of yourself.",
+        "Break tasks into smaller steps and take short breaks. You’re doing your best — try a breathing break now.",
+        "Can we list and order tasks by priority? Small steps make big tasks easier to manage.",
+        "Short focused sessions (25 mins) with breaks can help. Are you able to remove distractions for a bit?",
+        "Meeting new people can be draining. Prepare small conversation starters and take breaks.",
+        "Try listing pros and cons or limit choices to two options to make it easier.",
+        "That sounds hard. Would a short break or a breathing exercise help right now?",
+        "Financial stress is real. Try listing expenses and see if small budgeting steps or help is available."
+      ]
+    },
+    {
+      "tag": "loneliness",
+      "patterns": [
+        "I feel lonely",
+        "I feel disconnected from everyone",
+        "I don’t want to talk to anyone",
+        "I feel very lonely at night",
+        "I am having trouble connecting with my family",
+        "I don’t know how to ask for help",
+        "Nobody understands me",
+        "I feel isolated",
+        "No one cares about me"
+      ],
+      "responses": [
+        "It’s okay to feel lonely sometimes. You can talk to me.",
+        "Remember, connecting with others, even online, can help.",
+        "You are never truly alone. I'm here to listen.",
+        "Feeling disconnected is painful. Would you like tips to reach out safely to someone?",
+        "That's okay — sometimes we need space. If you want, you can share anything here without judgment."
+      ]
+    },
+    {
+      "tag": "self_worth",
+      "patterns": [
+        "I feel worthless",
+        "I feel like a burden",
+        "I'm not good enough",
+        "I feel like I'm a burden to others",
+        "I feel guilty about past mistakes",
+        "I am struggling with self-doubt",
+        "Nobody values me",
+        "I feel like a failure"
+      ],
+      "responses": [
+        "You are valuable and important, no matter how you feel right now.",
+        "Remember, your worth doesn’t depend on what others think.",
+        "It's okay to have hard days, but you matter so much.",
+        "You matter even when you feel low. You're not defined by this feeling — you're important.",
+        "Guilt is heavy. Try to be gentle with yourself and consider what you can learn from the past.",
+        "Self-doubt is common; remind yourself of one thing you've done well today, however small."
+      ]
+    },
+    {
+      "tag": "sleep",
+      "patterns": [
+        "I cannot sleep properly",
+        "I can't sleep at night",
+        "I wake up in the middle of the night",
+        "I struggle with sleep",
+        "I can't fall asleep",
+        "My sleep schedule is ruined",
+        "I wake up tired",
+        "I keep tossing and turning at night"
+      ],
+      "responses": [
+        "Try creating a calming bedtime routine: dim lights, avoid screens, and do slow breathing.",
+        "Sometimes writing down thoughts before bed can help clear your mind.",
+        "Would you like me to suggest some relaxation techniques for better sleep?",
+        "Try a calming bedtime routine: dim lights, avoid screens, and try slow breathing before sleep."
+      ]
+    },
+    {
+      "tag": "motivation",
+      "patterns": [
+        "I'm motivated to work today",
+        "I feel calm and relaxed",
+        "I feel happy today",
+        "I want to be productive",
+        "I'm in a good mood",
+        "I feel positive today"
+      ],
+      "responses": [
+        "That’s great! Use this energy to do something meaningful today.",
+        "I’m glad you’re feeling positive — hold on to this moment.",
+        "That’s wonderful. What’s one goal you’d like to focus on today?",
+        "Great! Use that energy to prioritize one meaningful task — you’ve got this.",
+        "That's wonderful. Keep doing whatever helps you feel calm — take note for future use."
+      ]
+    },
+    {
+      "tag": "anger",
+      "patterns": [
+        "I feel angry",
+        "I feel irritable",
+        "I lose my temper easily",
+        "I feel frustrated",
+        "I'm mad right now",
+        "I can't control my anger"
+      ],
+      "responses": [
+        "Anger can be hard to manage. Would you like me to suggest calming exercises?",
+        "It’s okay to feel angry. Taking a walk or doing something physical can help release it.",
+        "Try pausing and taking slow breaths before reacting — it may help ease the intensity.",
+        "Sometimes writing your thoughts down helps release anger safely."
+      ]
+    },
+    {
+      "tag": "gratitude",
+      "patterns": [
+        "I feel thankful",
+        "I feel grateful",
+        "I’m proud of myself",
+        "I appreciate what I have",
+        "I'm happy with my life",
+        "I feel blessed"
+      ],
+      "responses": [
+        "That’s beautiful. Gratitude can really lift your mood.",
+        "I’m glad you’re noticing the good things — that’s very powerful.",
+        "Being grateful helps strengthen positivity. Keep it up!"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Talk to you soon"
+      ],
+      "responses": [
+        "Take care! Remember, seeking help is brave.",
+        "Goodbye! Stay strong and take care of yourself.",
+        "See you later. You did great by sharing your feelings today."
+      ]
+    },
+    {
+      "tag": "fallback",
+      "patterns": [
+        "",
+        "random text",
+        "What?",
+        "I don't know",
+        "Tell me something else",
+        "I'm not sure"
+      ],
+      "responses": [
+        "I'm sorry, I didn't understand that. Can you try asking differently?",
+        "I'm here to support you. Please type something related to how you feel.",
+        "Could you rephrase that? I want to understand you better."
+      ]
+    }
+  ]
+}

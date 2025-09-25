@@ -4,7 +4,7 @@
 ---
 <div align="center">
   <br />
-    <img src="public/hero.png" alt="Project Banner">
+    <img src="Screenshot 2025-09-25 230227.png" alt="Project Banner">
   <br />
 
 ## 📌 Overview  
